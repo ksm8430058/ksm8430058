@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hello there 👋
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=250&text=KwonSunMi&desc=Have_a_happy_day&fontColor=FFCCE5)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=250&text=KwonSunMi&desc=Have_a_happy_day&fontColor=FFCCE5)
 <!--
 **ksm8430058/ksm8430058** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
