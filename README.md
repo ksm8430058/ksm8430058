@@ -3,6 +3,8 @@
 <div align="center">
   
  ![header](https://capsule-render.vercel.app/api?type=Slice&color=timeGradient&height=250&text=KwonSunMi&desc=Have_a_happy_day&fontColor=FFCCE5)
+  
+ ### 병아리 개발자 권선미 입니다. 😄 
 
 * * *
 
