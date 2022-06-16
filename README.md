@@ -25,6 +25,8 @@
 <img src="https://img.shields.io/badge/GitHub-F05032?style=for-the-badge&logo=GitHub&logoColor=white">
 <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=for-the-badge&logo=Raspberry Pi&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-C4D600?style=for-the-badge&logo=Linux&logoColor=white">
+<br/>
+<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white">
   
 * * *
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fksm8430058%2Fksm8430058&count_bg=%23E75FC2&title_bg=%23C571F5&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
